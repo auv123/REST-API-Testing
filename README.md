@@ -1,6 +1,6 @@
 # REST-API-Testing
 
-A sample project where the Google Maps API can be used to get details for any address in a JSON format. This response is extracted and tested it for latitude and longitude correctness.
+A sample project where the Google Maps API can be used to get details for any address in a JSON format. This response is extracted and tested it for latitude and longitude correctness. TestNG is used as the testing framework.
 
 For input data, the external data provider is the DataToTest.properties file where address information such as the following can be entered:
 
