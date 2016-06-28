@@ -22,4 +22,4 @@ Here are some scenarios that were tested:
  
    d) Longitude and latitude should be valid doubles and should not have commas, characters and other symbols.
    
-Tools/technologies used: REST, TestNG, JSON, Apache POI, HTTPClient, Maven, Java
+**Tools/technologies used: REST, TestNG, JSON, Apache POI, HTTPClient, Maven, Java**
