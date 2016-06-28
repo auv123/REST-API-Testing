@@ -21,3 +21,5 @@ Here are some scenarios that were tested:
    c) Longitude should be between -180 and 180.
  
    d) Longitude and latitude should be valid doubles and should not have commas, characters and other symbols.
+   
+Tools/technologies used: REST, TestNG, JSON, Apache POI, HTTPClient, Maven, Java
